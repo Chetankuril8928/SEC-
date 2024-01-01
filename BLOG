@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            background-image: url("https://tse1.mm.bing.net/th?id=OIP.oEOzZu613GEdp9aMu7XTIgHaEK&pid=Api&P=0&h=180");
+            background-repeat: no-repeat;
+            background-size:100% 100%; 
+        }
+        h4{
+            margin-left: 45%;
+            font-weight: bolder;
+        }
+
+    </style>
+</head>
+    <body bgcolor="black" text="white">
+        <br><br>
+       <marquee behavior="" direction="right"><H4 style="font-size: xx-large;" >INTRODUCTION</H4></marquee>  
+    <p>HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is a combination of Hypertext and Markup language. Hypertext defines the link between web pages. A markup language is used to define the text document within the tag which defines the structure of web pages. This language is used to annotate (make notes for the computer) text so that a machine can understand it and manipulate text accordingly. Most markup languages (e.g. HTML) are human-readable. The language uses tags to define what manipulation has to be done on the text.
+        <p>HTML is a markup language used by the browser to manipulate text, images, and other content, in order to display it in the required format. HTML was created by Tim Berners-Lee in 1991. The first-ever version of HTML was HTML 1.0, but the first standard version was HTML 2.0, published in 1995</p>
+    
+            <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/04/Introduction-to-HTML-2.jpg" height="300px" weight="250px" >
+    </p>
+    <ul>
+    <li> HTML stands for Hyper Text Markup Language</li>
+    <li>HTML is the standard markup language for creating Web pages</li>
+    <li>HTML describes the structure of a Web page</li>
+    <li>HTML consists of a series of elements</li>
+    <li>HTML elements tell the browser how to display the content</li>
+    <li>HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.</li>
+    </ul>
+        <ul>
+            <li>Elements and Tags:</li><p>HTML uses predefined tags and elements which tell the browser how to properly display the content. Remember to include closing tags. If omitted, the browser applies the effect of the opening tag until the end of the page.</p>
+            <ul>
+                <li>HTML page structure:</li><p>HTML uses predefined tags and elements which tell the browser how to properly display the content. Remember to include closing tags. If omitted, the browser applies the effect of the opening tag until the end of the page.</p>
+                <ul>
+                <li>(!Doctype html):</li> <p>This is the document type declaration (not technically a tag). It declares a document as being an HTML document. The doctype declaration is not case-sensitive.</p>
+                <li>(html):</li><p>This is called the HTML root element.All other elements are contained within it.</p>
+                <li>(head):</li><p>The head tag contains the “behind the scenes” elements for a webpage. Elements within the head aren’t visible on the front-end of a webpage. HTML elements used inside the (head) element include:</p>
+                <li>(style):</li><p>This html tag allows us to insert styling into our webpages and make them appealing to look at with the help of css</p>
+                <li>(title):</li><p>The title is what is displayed on the top of your browser when you visit a website and contains the title of the webpage that you are viewing.</p>
+                <li>(body):</li><p>The body tag is used to enclose all the visible content of a webpage. In other words, the body content is what the browser will show on the front-end</p>
+                <p>This are the main tag which were use for formating HTML and to make web pages.</p>
+                </ul>
+            </ul>
+        </ul>
+        
+</body>
+</html>
